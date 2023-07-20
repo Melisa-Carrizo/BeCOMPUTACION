@@ -24,7 +24,7 @@ const NavBar = ()=> {
                         </ul>
                     </li>
                 </ul>
-                    <div>
+                    <div className="ms-auto">
                         <CartWidget/>
                     </div>
                 </div>
